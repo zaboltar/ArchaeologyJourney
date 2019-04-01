@@ -30,7 +30,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 0:
 
-                info.text = "jhkjkj.";
+                info.text = "Huaycan of Cieneguilla is an old settlement occupied between S. IX - XI by Ychmays. And between XI and XV there were also Incas.";
 
                 displayObjs[43].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -38,7 +38,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 1:
 
-                info.text = "It was built in S. XVI, around 500 years ago, close to Lima's foundation.";
+                info.text = "The merged culture of the inhabitants lived in this site since year 900 to 1500. The city is made of rock and clay.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -46,7 +46,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 2:
 
-                info.text = "This settlement is connected to the Inca Road, as many of other sites.";
+                info.text = "The place has been restored but not reconstructed, to preserve as close as possible to the original.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -54,7 +54,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 3:
 
-                info.text = "Among these debris is the Curaca´s house, a holy warrior priest.";
+                info.text = "There are two main zones in the city, the Left side correspond to Inca develop, the right to Ychmays.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -62,7 +62,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 4:
 
-                info.text = "At Curaca´s house it was found a stone mace with wooden grip and spondylus art.";
+                info.text = "The settlement has tunnels and tombs under the houses. The dead were buried at their own family homes.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -70,7 +70,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 5:
 
-                info.text = "Some rooms have been identified as kitchens, dormitories and patios.";
+                info.text = "There are several symbols and icons which may represent a mysterious, unknown and forgotten language. ";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -78,7 +78,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 6:
 
-                info.text = "There has been found several corpses buried with and without offerings.";
+                info.text = "Atop the hills, there are several walls of contention to protect the center. They work still today.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -86,7 +86,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 7:
 
-                info.text = "The largest building was the Church. Gnome worship was abolished. Curaca´s house is the one on the top left in the corner.";
+                info.text = "Tomb robbers have raided, pillaged and plundered most of treasures, artifacts and enviroment, still, several items have been found.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -94,7 +94,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 8:
 
-                info.text = "After a long and inclined climb/walk there can be seen a couple of watchposts. The wind is strong at heights.";
+                info.text = "It was found all over the place the vegetal-made roofs of all the city, excepting particular patios or stone ceilings.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -102,7 +102,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 9:
 
-                info.text = "The valley, agro-fields and residential zone can be seen all around. Deep into the valley, after 2hrs of walk there is a big cactus valley, fierce insect and animals lurks there. ";
+                info.text = "In certain parts there is more than one level to navigate the city.  ";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -110,7 +110,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 10:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Last year a metal plate artifact was discovered. It was made of copper.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -118,7 +118,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 11:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Some rooms in the higher ground have windows to behold the valley.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -127,7 +127,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 12:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "In all directions, in this case, the agriculture fields.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -136,7 +136,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 13:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This dintel was found fallen. Weighting 400 kg, it was needed 16 people and 1 week to reposition it.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -145,7 +145,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 14:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This corridor leads to an exit and after a walk, there is a connection to the Inca Road, To the other side: Pachacamac Sanctuary";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -154,7 +154,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 15:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This canal has blockades in the ends. It was for sacrificial blood of many human offerings.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -163,7 +163,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 16:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This city has (mainly) administrative purposes, unlike Pachacamac, which has religious ones.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -172,7 +172,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 17:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "The trapezoidal figure is typical from Inca arquitecture; it has anti-seismic purposes.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -181,7 +181,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 18:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This Plateau was for the leaders, the Curaca, the Inca, and local authorities, such as the Administrator.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -190,7 +190,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 19:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This patio had no ceiling and it may be used to conduct important state matters.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -199,7 +199,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 20:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This big stone is called <batan> and is for grinding food.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -208,7 +208,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 21:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Most of corridors and zones must had a special task at hand, such as interchange of goods, or alleys of artisans and specialist.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -217,7 +217,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 22:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This view is from the Inca side to the Ychmay zone.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -226,7 +226,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 23:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "There are lots of design patterns in several places. Some are figures of entities, other geometrical shapes.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -235,7 +235,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 24:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "There is a vaast amount of rooms, recynths and diverse areas for many needs.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -244,7 +244,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 25:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "The stairs and ramps, as many other features of the site, are restored as the originals were supossed to be.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -253,7 +253,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 26:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Pillagers tend to violenty remove artifacts from tombs, sometimes leaving corpses outside, thus, contaminating some unaccesible areas.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -262,7 +262,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 27:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This tomb is near a crossroad. It was found with ceramics, offerings and artwork.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -271,7 +271,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 28:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "There are lots of stone incrustration among some walls. They supported heavy stone ceilings.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -280,7 +280,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 29:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This tomb is dark and is hard to see what terrible and fearsome things lay beyond.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -289,7 +289,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 30:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This batan is just outside a stone corridor leading to a big kitchen." ;
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -298,7 +298,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 31:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "It is said that this is a fox.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -307,7 +307,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 32:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "The first symbol is very recurred. The second one may represent the duality of two ceremonial blades.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -316,7 +316,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 33:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This carves have not been identified. They may mean <Apu> which means the spirit of the mountain that protects each valley.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -325,7 +325,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 34:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "There is an intelligent pattern. Unluckily, the wall has fallen and it can be deciphred with ease.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -334,7 +334,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 35:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Ychmay means red, there is still the faint rest of the crimson paintings in the wall of all the city.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -343,7 +343,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 36:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This popular design has many interpretations such as <motherhood> or <humankind>. ";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -352,7 +352,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 37:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Some of the circles are connected to the wall, some aren´t.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -361,7 +361,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 38:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Since there are 12 symbols in a place, it was thought that may be some kind of calendar.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -370,7 +370,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 39:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "But we lack of knowledge to understand their conception of time-measuring.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -379,7 +379,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 40:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This particular place is specially for blind visitors so they can feel the shapes.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -388,7 +388,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 41:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Some of the protective clay is falling, so the rocks of the structure becomes exposed and visible.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -397,7 +397,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 42:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Here it can be seen the importance of trapezoidal architecture.";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -406,7 +406,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 43:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "This is the rich tomb of one of the administrators of the town, it was found with his family. ";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
@@ -415,7 +415,7 @@ public class LoreNavigator2 : MonoBehaviour
 
             case 44:
 
-                info.text = "tafkldnfsdkjfd";
+                info.text = "Path to Inca Road";
 
                 displayObjs[loreIndex - 1].SetActive(false);
                 displayObjs[loreIndex].SetActive(true);
